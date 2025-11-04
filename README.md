@@ -7,7 +7,7 @@ O objetivo é apoiar o estudo e a compreensão dos principais conceitos e técni
 
 ## Estrutura do Repositório
 
-- [`threads/`](Threads/src/threads): Exemplos de **Cliente Multithreading** desenvolvidos e apresentados em sala de aula.
+- [`Threads/`](Threads/): Exemplos de **Cliente Multithreading** desenvolvidos e apresentados em sala de aula.
 
 ---
 
