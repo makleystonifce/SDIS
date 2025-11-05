@@ -8,6 +8,7 @@ O objetivo é apoiar o estudo e a compreensão dos principais conceitos e técni
 ## Estrutura do Repositório
 
 - [`Threads/`](Threads/): Exemplos de **Cliente Multithreading** desenvolvidos e apresentados em sala de aula.
+- [`Docker/`](Docker/): Exemplos de vitualização utilizando **containers Docker** e **docker-compose** desenvolvidos e apresentados em sala de aula.
 
 ---
 
