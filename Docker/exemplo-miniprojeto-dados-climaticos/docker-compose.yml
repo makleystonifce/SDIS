@@ -1,0 +1,25 @@
+version: '3.9'
+services:
+  temp:
+    build: 
+      context: ./javatemp
+    container_name: temp
+    ports:
+      - "6000:6000"
+    networks:
+      - aulasdis
+    restart: always
+
+  umidade:
+    build: 
+      context: ./javaumidade
+    container_name: umidade
+    ports:
+      - "6001:6001"
+    networks:
+      - aulasdis
+    restart: always
+
+networks:
+  aulasdis:
+    driver: bridge
